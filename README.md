@@ -4,6 +4,8 @@
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
+![Executive Overview](screenshots/01_executive_overview.png)
+
 > **A 5-page enterprise analytics dashboard built in Power BI Desktop**  
 > Global Superstore Dataset · 51,290 Orders · 147 Countries · 4-Year Trend Analysis
 
