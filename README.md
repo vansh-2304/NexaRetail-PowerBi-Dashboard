@@ -154,7 +154,13 @@ nexaretail-dashboard/
 Original data: 51,290 orders · 10,000+ customers · 2011–2014 · 147 countries · 3 product categories
 
 ---
+## 👤 Author
 
+**Vansh Goyal**
+- 📧 [vggoyal2304@gmail.com]
+- 💼 [www.linkedin.com/in/vansh-goyal-fin]
+
+---  
 ## Connect
 
 Built as a portfolio project to demonstrate end-to-end Power BI development including data modelling, DAX, and enterprise dashboard design.
